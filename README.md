@@ -9,6 +9,10 @@
 
 ---
 
+![image](https://user-images.githubusercontent.com/70424037/111837057-ae5dfb00-88cd-11eb-9500-9cb8ceccbe30.png)
+
+---
+
 ## Description: 
 Ready to get fit? Track your cardio and resistance routines with this application! Add and save your records to the database and then check your stats to see how well you've been doing! 
 
